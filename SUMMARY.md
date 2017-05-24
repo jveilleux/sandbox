@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [User Guide](README.md)
+* [FAQs](chapter1.md)
+* [Customer FAQs](customer-faqs.md)
+
