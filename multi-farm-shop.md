@@ -1,6 +1,7 @@
 # Multi-Farm Shop – OFN Setup Process
 
-[Multi-farm shops](https://openfoodnetwork.org/au/learn/model/multi-farm-shop/)have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a[Farm Direct shop](https://openfoodnetwork.org/au/learn/model/farm-shop-on-farm-on-roadside-online/)on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
+[  
+Multi-farm shops](https://openfoodnetwork.org/au/learn/model/multi-farm-shop/)have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a[Farm Direct shop](https://openfoodnetwork.org/au/learn/model/farm-shop-on-farm-on-roadside-online/)on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
 
 ## The nitty gritties…
 
