@@ -6,4 +6,5 @@
 * [Hubs Set-Up Guide](hubs-set-up-guide.md)
 * [Producer set-up guide](producer-set-up-guide.md)
 * [Advanced Features](advanced-features.md)
+* [Producer FAQs](producer-faqs.md)
 

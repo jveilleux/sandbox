@@ -22,7 +22,7 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 [CUSTOMER FAQS](/customer-faqs.md)
 
-[PRODUCER FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/producer-faqs/)
+[PRODUCER FAQS](/producer-faqs.md)
 
 [HUB FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/hub-faqs/)
 
