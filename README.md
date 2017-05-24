@@ -6,7 +6,7 @@ This short video will give you a brief introduction to how the Open Food Network
 
 Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
 
-[HUBS SET-UP GUIDE](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/)
+[HUBS SET-UP GUIDE](/hubs-set-up-guide.md)
 
 [PRODUCERS SET-UP GUIDE](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/)
 
