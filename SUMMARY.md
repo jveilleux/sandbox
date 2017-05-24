@@ -30,4 +30,5 @@
 * [Payment methods 2](payment-methods-2.md)
 * [Case Study: Baw Baw Food Hub](case-study-baw-baw-food-hub.md)
 * [Farm Foodstore](farm-foodstore.md)
+* [Bondi Food Collective](bondi-food-collective.md)
 

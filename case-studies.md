@@ -6,7 +6,7 @@ The following case studies have been created to help users to understand how the
 
 [Farm Foodstore](/farm-foodstore.md)– Menzies Creek, Australia
 
-[Bondi Food Collective](https://openfoodnetwork.org/user-guide/case-studies/bondi-food-collective/)– Bondi, Australia
+[Bondi Food Collective](/bondi-food-collective.md)– Bondi, Australia
 
 [Westies Dry Goods Buying Group](https://openfoodnetwork.org/au/learn/story/westies-dry-goods-buying-group/)– Melbourne, Australia
 
