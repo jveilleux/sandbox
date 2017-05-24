@@ -30,7 +30,7 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 Take a look at these case studies to hear about how different food enterprises are utilising the OFN as part of their operations.
 
-[CASE STUDIES](https://openfoodnetwork.org/user-guide/case-studies/)
+[CASE STUDIES](/case-studies.md)
 
 ### Model Specific Instructions:
 

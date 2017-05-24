@@ -8,4 +8,5 @@
 * [Advanced Features](advanced-features.md)
 * [Producer FAQs](producer-faqs.md)
 * [Hub FAQs](hub-faqs.md)
+* [Case studies](case-studies.md)
 
