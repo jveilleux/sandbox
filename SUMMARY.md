@@ -38,5 +38,5 @@
 * [Group Buy](group-buy.md)
 * [Private Shopfront](private-shopfront.md)
 * [Product properties](product-properties.md)
-* [dddd](multi-farm-shop.md)
+* [Farm Shop \(on-farm / on roadside / online\)](multi-farm-shop.md)
 
