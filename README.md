@@ -8,7 +8,7 @@ Learn how to get your business set-up on the OFN! These set-up guides will walk 
 
 [HUBS SET-UP GUIDE](/hubs-set-up-guide.md)
 
-[PRODUCERS SET-UP GUIDE](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/)
+[PRODUCERS SET-UP GUIDE](https://www.gitbook.com/book/jveilleux/user-guide/edit#/edit/master/producer-set-up-guide.md?_k=0g0faw)
 
 ### Advanced features:
 
