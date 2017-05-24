@@ -11,4 +11,5 @@
 * [Case studies](case-studies.md)
 * [Farmers’ Markets](farmers-markets.md)
 * [Buying Group](buying-group.md)
+* [Multi-Farm Shop](multi-farm-shop.md)
 
