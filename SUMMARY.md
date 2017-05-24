@@ -33,4 +33,5 @@
 * [Bondi Food Collective](bondi-food-collective.md)
 * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
 * [Farmers’ Market2](farmers-market.md)
+* [Melbourne Farmers Markets](melbourne-farmers-markets.md)
 
