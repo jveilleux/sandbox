@@ -1,6 +1,6 @@
 # Advanced Features
 
-The[producer](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/)and[hub](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/)set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The [producer](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/) and [hub](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/) set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
