@@ -1,34 +1,32 @@
 # Multi-Farm Shop – OFN Setup Process
 
-[  
-Multi-farm shops](https://openfoodnetwork.org/au/learn/model/multi-farm-shop/) have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a [Farm Direct shop](https://openfoodnetwork.org/au/learn/model/farm-shop-on-farm-on-roadside-online/) on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
+[Multi-farm shops](/multi-farm-shop.md) have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a [Farm Direct shop](/farm-shop-on-farm-on-roadside-online.md) on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
 
 ## The nitty gritties…
 
-The central  managing producer of a multi-farm shop can setup the shop according to the [producer setup guide](https://openfoodnetwork.org/user-guide/producer-set-up-guide/).  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+The central  managing producer of a multi-farm shop can setup the shop according to the [producer setup guide](/producer-set-up-guide.md).  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
 
 **Coordinating producer sets up profiles and products for supplying producers**
 
-After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Because a producer is behaving more like a ‘hub’ when they stock others’ produce, refer to the [hub set-up guide](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/) to see how to create profiles for additional ‘suppliers’. Note also that the order cycle interface will be different when you stock items from others, see the hub setup guide for an explanation [here](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/order-cycles/).
+After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Because a producer is behaving more like a ‘hub’ when they stock others’ produce, refer to the [hub set-up guide](/hubs-set-up-guide.md) to see how to create profiles for additional ‘suppliers’. Note also that the order cycle interface will be different when you stock items from others, see the hub setup guide for an explanation [here](/order-cycles.md).
 
 **Supplying producers set up their profiles and add in their product range**
 
-Supplying producers can create a producer profile, according to the [producer setup guide](https://openfoodnetwork.org/user-guide/producer-set-up-guide/). At [step 2](https://openfoodnetwork.org/user-guide/producer-set-up-guide/producer-profile-types/) they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](https://openfoodnetwork.org/user-guide/advanced-features/enterprise-to-enterprise-permissions-e2es/).
+Supplying producers can create a producer profile, according to the [producer setup guide](/producer-set-up-guide.md). At [step 2](/producer-profile-types.md) they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
-* [Enterprise Fees](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/enterprise-fees/)
+* [Enterprise Fees](/enterprise-fees.md)
   – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
 * Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
-* [Pricing irregular, indivisible meat items.](https://openfoodnetwork.org/user-guide/advanced-features/pricing-irregular-indivisible-meat-items/)
+* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md).
   This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
-* [Apply tags](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/)
-  to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
-* [Make your shopfront private](https://openfoodnetwork.org/user-guide/advanced-features/private-shopfronts/)
+* [Apply tags](/customer-accounts-and-tagging.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
+* [Make your shopfront private](/private-shopfront.md)
   . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
-* [Charge different prices to different customers](https://openfoodnetwork.org/user-guide/advanced-features/charging-different-prices-to-different-customers/)
+* [Charge different prices to different customers](/charging-different-prices-to-different-customers.md)
   . There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
-* [Place orders manually](https://openfoodnetwork.org/user-guide/advanced-features/create-an-order/)
+* [Place orders manually](/create-an-order.md)
   for customers who prefer to submit orders by text or over the phone.
 
 ## Features in the pipeline:

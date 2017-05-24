@@ -38,5 +38,11 @@
 * [Group Buy](group-buy.md)
 * [Private Shopfront](private-shopfront.md)
 * [Product properties](product-properties.md)
-* [Farm Shop \(on-farm / on roadside / online\)](multi-farm-shop.md)
+* [Multi-Farm Shop](multi-farm-shop.md)
+* [Farm Shop \(on-farm / on roadside / online\)](farm-shop-on-farm-on-roadside-online.md)
+* [Enterprise to Enterprise permissions \(E2Es\)](enterprise-to-enterprise-permissions-e2es.md)
+* [Pricing irregular, indivisible meat items](pricing-irregular-indivisible-meat-items.md)
+* [Customer Accounts and Tagging](customer-accounts-and-tagging.md)
+* [Charging different prices to different customers](charging-different-prices-to-different-customers.md)
+* [Create an order](create-an-order.md)
 
