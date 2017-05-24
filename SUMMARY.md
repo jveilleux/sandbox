@@ -11,7 +11,7 @@
 * [Case studies](case-studies.md)
 * [Farmers’ Markets](farmers-markets.md)
 * [Buying Group](buying-group.md)
-* [Multi-Farm Shop – OFN Setup Process](multi-farm-shop.md)
+* [Multi-Farm Shop](multi-farm-shop.md)
 * [Create an account](create-an-account.md)
 * [Hub profile types](hub-profile-types.md)
 * [The dashboard](the-dashboard.md)
@@ -38,5 +38,5 @@
 * [Group Buy](group-buy.md)
 * [Private Shopfront](private-shopfront.md)
 * [Product properties](product-properties.md)
-* [Multi farm Shop2](multi-farm-shop.md)
+* [dddd](multi-farm-shop.md)
 
