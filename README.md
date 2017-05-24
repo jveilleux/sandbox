@@ -36,7 +36,7 @@ Take a look at these case studies to hear about how different food enterprises a
 
 These pages detail the setup process for different community food enterprise models.
 
-[FARMERS’ MARKET](https://openfoodnetwork.org/user-guide/model/farmers-market/)
+[FARMERS’ MARKET](/farmers-markets.md)
 
 [BUYING GROUP](https://openfoodnetwork.org/user-guide/model/buying-group/)
 

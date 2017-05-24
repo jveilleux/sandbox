@@ -9,4 +9,5 @@
 * [Producer FAQs](producer-faqs.md)
 * [Hub FAQs](hub-faqs.md)
 * [Case studies](case-studies.md)
+* [Farmers’ Markets](farmers-markets.md)
 
