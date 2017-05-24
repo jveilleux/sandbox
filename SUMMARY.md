@@ -16,4 +16,10 @@
 * [Hub profile types](hub-profile-types.md)
 * [The dashboard](the-dashboard.md)
 * [Your profile](your-profile.md)
+* [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
+* [Products](products.md)
+* [Payment methods](payment-methods.md)
+* [Shipping methods](shipping-methods.md)
+* [Enterprise fees](enterprise-fees.md)
+* [Order Cycles](order-cycles.md)
 

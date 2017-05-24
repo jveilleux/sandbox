@@ -13,17 +13,17 @@
 
 The following steps are only relevant to hubs who wish to establish an online shop. Profile only users can stop at step 4.
 
-1. [Create profiles for, or connect with your supplying producers.](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/create-or-connect-with-supplying-producers/)
+1. [Create profiles for, or connect with your supplying producers.](/create-or-connect-with-your-supplying-producers.md)
    You need to do this before you can add your products.
-2. [Add products](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/products/)
+2. [Add products](/products.md)
    .
-3. [Define and set up your payment methods](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/payment-methods/)
+3. [Define and set up your payment methods](/payment-methods.md)
    .
-4. [Define your shipping methods](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/shipping-methods/)
+4. [Define your shipping methods](/shipping-methods.md)
    .
-5. [Add enterprise fees](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/enterprise-fees/)
+5. [Add enterprise fees](/enterprise-fees.md)
    .
-6. [Create an order cycle](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/order-cycles/)
+6. [Create an order cycle](/order-cycles.md)
    .
 
 You’re now ready to open the doors to your shop, and start trading!
