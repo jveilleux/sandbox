@@ -38,7 +38,7 @@ These pages detail the setup process for different community food enterprise mod
 
 [FARMERS’ MARKET](/farmers-markets.md)
 
-[BUYING GROUP](https://openfoodnetwork.org/user-guide/model/buying-group/)
+[BUYING GROUP](/buying-group.md)
 
 [MULTI-FARM SHOP](https://openfoodnetwork.org/user-guide/model/multi-farm-shop/)
 
