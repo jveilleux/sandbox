@@ -25,4 +25,7 @@
 * [View orders](view-orders.md)
 * [Reports](reports.md)
 * [Advanced Features](advanced-features.md)
+* [Producer profile ‘types’](producer-profile-types.md)
+* [The dashboard](the-dashboard.md)
+* [Payment methods 2](payment-methods-2.md)
 
