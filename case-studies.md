@@ -4,7 +4,7 @@ The following case studies have been created to help users to understand how the
 
 [Baw Baw Food Hub](/case-study-baw-baw-food-hub.md)– Warragul, Australia
 
-[Farm Foodstore](https://openfoodnetwork.org/user-guide/case-studies/farm-foodstore/)– Menzies Creek, Australia
+[Farm Foodstore](/farm-foodstore.md)– Menzies Creek, Australia
 
 [Bondi Food Collective](https://openfoodnetwork.org/user-guide/case-studies/bondi-food-collective/)– Bondi, Australia
 
