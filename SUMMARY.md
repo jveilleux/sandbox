@@ -31,4 +31,5 @@
 * [Case Study: Baw Baw Food Hub](case-study-baw-baw-food-hub.md)
 * [Farm Foodstore](farm-foodstore.md)
 * [Bondi Food Collective](bondi-food-collective.md)
+* [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
 

@@ -8,5 +8,5 @@ The following case studies have been created to help users to understand how the
 
 [Bondi Food Collective](/bondi-food-collective.md)– Bondi, Australia
 
-[Westies Dry Goods Buying Group](https://openfoodnetwork.org/au/learn/story/westies-dry-goods-buying-group/)– Melbourne, Australia
+[Westies Dry Goods Buying Group](/westies-dry-goods-buying-group.md)– Melbourne, Australia
 
