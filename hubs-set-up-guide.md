@@ -28,7 +28,7 @@ The following steps are only relevant to hubs who wish to establish an online sh
 
 You’re now ready to open the doors to your shop, and start trading!
 
-1. [View orders that have been placed in your shop](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/view-orders/)
+1. [View orders that have been placed in your shop](/view-orders.md)
    .
 2. [View and use the OFN generated reports](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/reports/)
    to track orders, view accounts payable and receivable and more!
