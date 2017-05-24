@@ -14,13 +14,13 @@ Learn how to get your business set-up on the OFN! These set-up guides will walk 
 
 Already set-up? Check out some of the OFN’s more advanced features and learn how to make your OFN account work for you.
 
-[ADVANCED FEATURES](http://openfoodnetwork.org/platform/user-guide/advanced-features/)
+[ADVANCED FEATURES](/advanced-features.md)
 
 ### Frequently Asked Questions \(FAQs\):
 
 Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs .
 
-[CUSTOMER FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/customer-faqs/)
+[CUSTOMER FAQS](/customer-faqs.md)
 
 [PRODUCER FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/producer-faqs/)
 
