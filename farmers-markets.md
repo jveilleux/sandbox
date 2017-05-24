@@ -1,26 +1,26 @@
-# Farmers’ Markets – OFN Setup
+# Farmers’ Markets – OFN Setup
 
 # Process
 
-_Setting up a_[_farmer’s market_](https://openfoodnetwork.org/au/learn/model/farmers-market/)_on the OFN is a three part process:_
+_Setting up a _[_farmer’s market_](/farmers-market.md) _on the OFN is a three part process:_
 
-1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).
-2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
-3. Setup shopfronts –  Stallholders may wish to operate their own independent online shop from their profile. Alternatively stallholders may wish to collaborate with others and open a collective shopfront, which sells items from multiple stallholders in the one shop.
+1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).
+2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
+3. Setup shopfronts –  Stallholders may wish to operate their own independent online shop from their profile. Alternatively stallholders may wish to collaborate with others and open a collective shopfront, which sells items from multiple stallholders in the one shop.
 
-## Step 1:  Create a group page
+## Step 1:  Create a group page
 
-If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the[Melbourne Farmer’s Markets group page](https://openfoodnetwork.org.au/groups/melbourne-farmers-markets) below.
+If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the[Melbourne Farmer’s Markets group page](https://openfoodnetwork.org.au/groups/melbourne-farmers-markets) below.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png "MFM Directory")
 
-Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page[click here](https://openfoodnetwork.org/user-guide/advanced-features/managing-a-group-page/). Adding ‘enterprises’, or your members’s profiles, to your group page is discussed below.
+Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page[click here](https://openfoodnetwork.org/user-guide/advanced-features/managing-a-group-page/). Adding ‘enterprises’, or your members’s profiles, to your group page is discussed below.
 
 ##### [Ask us](mailto:hello@openfoodnetwork.org)about embedding your Farmers’ Market group directory into your own website.
 
-## Step 2: Add your stallholder’s profiles to the group page
+## Step 2: Add your stallholder’s profiles to the group page
 
-Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the[Hub setup guide](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/)and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the[Hub setup guide](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/)and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
 
 **Option 1 – Create profiles for your members:**
 
@@ -36,7 +36,7 @@ To transfer ownership of a profile to the stallholder, edit that profile and typ
 
 Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the[producer setup guide](https://openfoodnetwork.org/user-guide/producer-set-up-guide/). When their profile is setup, they’ll need to let you know so you can add them to your group page, in the group page admin.
 
-_Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
+_Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
 
 ## Step 3: Setup shopfronts
 
@@ -58,9 +58,9 @@ The OFN’s high degree of flexibility makes it possible for collectives of ente
 
 A group of stallholders will open a shopfront which stocks products from multiple producers. Here customers can place orders for items across multiple stallholders rather than needing to place orders with each stallholder separately. The participating stallholders will devise a means of coordinating the packing and delivery of these orders. It might be that each stallholder bags and labels their component of the orders, ready to pack into boxes on market day. Or perhaps they will alternate in the task of walking between stallholders at the end of the market at picking up the required items. Orders may be delivered by the stallholders after the market, back in their home locale, or around the market. Or alternatively, a storage and collection agreement may be made with a nearby cafe or shop.
 
-** With coordination by the Farmers’ Market.**
+** With coordination by the Farmers’ Market.**
 
-A representative of the farmers’ market may take responsibility for coordinating an online shop, which sells items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is often pitched at customers who cannot attend the market, such as local workplaces or cafes and restaurants. This model may require some market facilities such as a cool room. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
+A representative of the farmers’ market may take responsibility for coordinating an online shop, which sells items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is often pitched at customers who cannot attend the market, such as local workplaces or cafes and restaurants. This model may require some market facilities such as a cool room. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
 
 OFN allows for piloting of different models easily and quickly, talk to us if you have another idea.
 
