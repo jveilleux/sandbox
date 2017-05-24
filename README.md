@@ -40,5 +40,5 @@ These pages detail the setup process for different community food enterprise mod
 
 [BUYING GROUP](/buying-group.md)
 
-[MULTI-FARM SHOP](/multi-farm-shop.md)
+MULTI-FARM SHOP
 
