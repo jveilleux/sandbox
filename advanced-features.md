@@ -12,14 +12,14 @@ The[producer](http://openfoodnetwork.org/platform/user-guide/producer-set-up-gui
 ### Products
 
 * Create ‘product variants’ to make your shopfront less cluttered and easier to navigate.
-  [Read more ](https://openfoodnetwork.org/user-guide/advanced-features/product-variants/)
+  [Read more ](https://openfoodnetwork.org/user-guide/advanced-features/product-variants/)
 * Strategies for pricing irregular, indivisible items which are charged by the kg, such as meat.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/pricing-irregular-indivisible-meat-items/)
-* Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc.
+* Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/product-properties-i-e-certified-organic-free-range-etc/)
 * Use the inventory tool when you need more flexibility in your product management. This feature enables hubs to over-ride some details of their supplier’s products including price and SKU.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/inventory/)
-* Use the group buy feature to aid in the administration of products which are purchased in bulk.
+* Use the group buy feature to aid in the administration of products which are purchased in bulk.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/group-buy)
 
 ### Shop Setup
@@ -31,18 +31,18 @@ The[producer](http://openfoodnetwork.org/platform/user-guide/producer-set-up-gui
 * Apply ‘tags’ to your customers and customise their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/)
 
-### Collaborating with other enterprises
+### Collaborating with other enterprises
 
 * Understand how Enterprise to Enterprise permissions \(E2Es\) are used to enable different forms of collaboration between enterprises and how they might apply to you.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/enterprise-to-enterprise-permissions-e2es/)
-* Learn how E2E permission impact each party in multi-enterprise order cycles.
+* Learn how E2E permission impact each party in multi-enterprise order cycles.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/complexocpermissions/)
 * Buying groups can function as an extension of a hub’s distribution network.
   [Read more](https://openfoodnetwork.org/user-guide/model/buying-group/)
 
 ### Order Cycles
 
-* Opening more than one order cycle at the same time. 
+* Opening more than one order cycle at the same time. 
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/opening-more-than-one-order-cycle/)
 * Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed.
   [Read more](https://openfoodnetwork.org/user-guide/advanced-features/creating-display-only-order-cycles/)

@@ -23,4 +23,6 @@
 * [Enterprise fees](enterprise-fees.md)
 * [Order Cycles](order-cycles.md)
 * [View orders](view-orders.md)
+* [Reports](reports.md)
+* [Advanced Features](advanced-features.md)
 
