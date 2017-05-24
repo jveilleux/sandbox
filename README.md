@@ -24,7 +24,7 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 [PRODUCER FAQS](/producer-faqs.md)
 
-[HUB FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/hub-faqs/)
+[HUB FAQS](/hub-faqs.md)
 
 ### Case studies:
 
