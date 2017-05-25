@@ -72,9 +72,9 @@ When you click **create**,  you will be taken to your **Bulk Edit Product **page
 
 #### Related advanced features:
 
-* [Product variants](http://openfoodnetwork.org/platform/user-guide/advanced-features/product-variants/)
-* [Pricing irregular, indivisible meat items](http://openfoodnetwork.org/platform/user-guide/advanced-features/pricing-irregular-indivisible-meat-items/)
-* [Product properties \(i.e. certified organic, free range, etc\)](http://openfoodnetwork.org/product-properties-i-e-certified-organic-free-range-etc/)
+* [Product variants](/product-variants.md)
+* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md)
+* [Product properties \(i.e. certified organic, free range, etc\)](/product-properties.md)
 
 
 
