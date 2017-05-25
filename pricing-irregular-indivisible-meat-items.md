@@ -40,7 +40,7 @@ In the future, the OFN is planning to develop customer accounts, which can track
 
 #### Alerting customers to your pricing policy
 
-Each OFN store has the option of placing a message at the top of their shopfront. This is an opportune place to let customers know that prices can vary after the order is placed. Instructions to do this are [here](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/your-profile/), under Shop Preferences.
+Each OFN store has the option of placing a message at the top of their shopfront. This is an opportune place to let customers know that prices can vary after the order is placed. Instructions to do this are [here](/your-profile.md), under Shop Preferences.
 
-The Payment Method description box is another place to send a message to the customer, such as ‘the final price may vary by a maximum of 10% due to product variability, we will contact you for variations greater than this’. Instructions for creating this message are[here](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/payment-methods-2/).
+The Payment Method description box is another place to send a message to the customer, such as ‘the final price may vary by a maximum of 10% due to product variability, we will contact you for variations greater than this’. Instructions for creating this message are [here](/payment-methods-2.md).
 
