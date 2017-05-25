@@ -1,8 +1,5 @@
 # Consumer Buying Groups
 
-  
-
-
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/08/Group.png "Group")
 
 A buying group is a group of people who traditionally live within close proximity to each other and who have come together to pool their resources and buy food in bulk. Collective buying often opens the group up to bulk discounts, which may be a driving factor, however the decision to start a Buying Group is often founded on shared values around food purchasing and consumption.
@@ -17,7 +14,7 @@ Depending on the size and nature of the group, food may be delivered to someone�
 
 The frequency of orders can again be determined by the Group and will also largely depend on the types of products included. For example, dry goods could be distributed less frequently than perishables.
 
-Buying Groups may develop individual relationships with farmers, suppliers and producers or they may be served by a[Food Hub](https://openfoodnetwork.org/au/learn/model/food-hub/)\([Food Connect Brisbane](https://www.foodconnect.com.au/),[CERES Fair Food](http://www.ceresfairfood.org.au/)\), who coordinates the purchase and then delivers to a chosen location. If purchasing through a Food Hub, then decisions can often be made around whether the produce is delivered in bulk for sorting by the group \(discounted\) or already sorted into members’ orders.
+Buying Groups may develop individual relationships with farmers, suppliers and producers or they may be served by a [Food Hub](https://openfoodnetwork.org/au/learn/model/food-hub/) \([Food Connect Brisbane](https://www.foodconnect.com.au/),[CERES Fair Food](http://www.ceresfairfood.org.au/)\), who coordinates the purchase and then delivers to a chosen location. If purchasing through a Food Hub, then decisions can often be made around whether the produce is delivered in bulk for sorting by the group \(discounted\) or already sorted into members’ orders.
 
 The resounding feedback from Buying Groups is that their success often depends on a couple of ‘champions’ who take on a lot of the administration, coordination and recruitment. Like any group or collective, a Buying Group also needs a leader or two. They are also more successful when an inherent sense of community already exists, whether it be in a regional town, suburb or through an existing school, group or club. It is not impossible to create a Buying Group in an area of identified need without an existing community structure, but it may take longer.
 
@@ -25,9 +22,9 @@ Consumer buying groups can be informal of formalised as an incorporated associat
 
 ## Stories & Resources
 
-[Bondi Food Collective](https://openfoodnetwork.org/user-guide/case-studies/bondi-food-collective/)
+[Bondi Food Collective](/bondi-food-collective.md)
 
-[Westies Dry Goods Buying Group](https://openfoodnetwork.org/au/learn/story/westies-dry-goods-buying-group/)
+[Westies Dry Goods Buying Group](/westies-dry-goods-buying-group.md)
 
 [Beechworth Food Coop](http://www.beechworthfoodcoop.org.au/)
 
@@ -42,6 +39,4 @@ Consumer buying groups can be informal of formalised as an incorporated associat
 [Grasslands Coop](http://www.grasslandsorganic.org.au/)
 
 [Farm Gate Foods](http://farmgatefoods.org.au/)
-
-
 
