@@ -2,9 +2,9 @@
 
 Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs.
 
-[CUSTOMER FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/customer-faqs/)
+[CUSTOMER FAQS](/customer-faqs.md)
 
-[PRODUCER FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/producer-faqs/)
+[PRODUCER FAQS](/producer-faqs.md)
 
-[HUB FAQS](http://openfoodnetwork.org/platform/user-guide/faqs/hub-faqs/)
+[HUB FAQS](/hub-faqs.md)
 
