@@ -1,6 +1,6 @@
 # Permissions in multi-enterprise order cycles
 
-This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click[here](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/order-cycle/)for content relating to order cycles involving a sole enterprise \(producer shop\).
+This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](/order-cycles.md) for content relating to order cycles involving a sole enterprise \(producer shop\).
 
 The coordinator has the highest degree of control over an order cycle. Other players \(suppliers and distributors\) can view the order cycles they are involved in, and edit the setting which affect them, but have restricted power to change broader setting of an order cycle.
 
@@ -18,10 +18,12 @@ _When the Coordinator of an order cycle is a hub, the full OC interface is loade
 
 * The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise must be:
 
-1. valid \(have verified their confirmation email\)IS THIS TRU?
-2.  have granted P-OC to the coordinator.
+* valid \(have verified their confirmation email\)IS THIS TRU?
+
+* have granted P-OC to the coordinator.
 
 * They can select products from these suppliers to include in the order cycle.
+
 * They can apply enterprise fees to an incoming supplier.
 
 ##### **Outgoing**
@@ -32,11 +34,12 @@ To do this the distributor must be:
 
 1. valid \(have verified their confirmation email, as this is where order confirmations will be sent from and to\). \(a warning message will show if this condition is not met\)
 2. be a hub \(type ‘any’\)
-3.  have granted the coordinator P-OC
+3. have granted the coordinator P-OC
 4. have at least one active shipping and payment method. \(a warning message will show if this condition is not met\)
 
-* The coordinator can select products for distributor to distribute.  For a distributor to distribute the products of an incoming supplier, the supplier must have granted the distributing enterprise P-OC.
-* The coordinator can apply enterprise fees to an incoming supplier.
+5. The coordinator can select products for distributor to distribute.  For a distributor to distribute the products of an incoming supplier, the supplier must have granted the distributing enterprise P-OC.
+
+6. The coordinator can apply enterprise fees to an incoming supplier.
 
 ### Supplying \(Incoming\) Enterprise
 
@@ -76,6 +79,4 @@ The degree of influence a supplier has over their products in outgoing, depends 
 * Can add/remove their enterprise fee
 
 \* Currently it is only the coordinator that can add a producer to an order cycle.
-
-
 
