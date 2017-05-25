@@ -12,7 +12,7 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png "P-OC")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
 
-##### Permission to[Add to Inventory](https://openfoodnetwork.org/user-guide/advanced-features/inventory/) \(P-I\) \(previously P-VO\)
+##### Permission to [Add to Inventory](/inventory.md) \(P-I\) \(previously P-VO\)
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png "P-I")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
 
@@ -26,13 +26,13 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ## Granting and Managing E2Es {#grantingandmanagingE2Es}
 
-To grant, view and delete your E2E permissions, click on**Enterprises**in the blue horizontal menu, and then**Enterprise Relationships**in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
+To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
 
 If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
 
 **Granting E2E permissions**
 
-In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit**create.** You can also delete permissions and replace them at any time.
+In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png "Granting E2Es")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
 
