@@ -45,4 +45,5 @@
 * [Customer Accounts and Tagging](customer-accounts-and-tagging.md)
 * [Charging different prices to different customers](charging-different-prices-to-different-customers.md)
 * [Create an order](create-an-order.md)
+* [Transferring ownership of a profile](transferring-ownership-of-a-profile.md)
 
