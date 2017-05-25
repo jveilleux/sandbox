@@ -10,7 +10,7 @@ If in the previous step you created a profile for your supplier \(because they w
 
 ### 2\) I connected with a pre-existing supplying producer profile.
 
-If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step\). They’ll then be visible to your when you go to stock your shop \(in[order cycles](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/order-cycles/)\)
+If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step\). They’ll then be visible to your when you go to stock your shop \(in [order cycles](/order-cycles.md)\)
 
 If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, the you can add their products according to process below.
 
@@ -62,7 +62,7 @@ Note: For products usually sold by the kg, it’s best to list the product for s
 
 ### Product variants
 
-Note: If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here.](http://openfoodnetwork.org/platform/user-guide/advanced-features/product-variants/)
+Note: If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](/product-variants.md).
 
 Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
 
