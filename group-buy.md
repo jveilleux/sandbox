@@ -1,7 +1,6 @@
 # Group Buy
 
-  
-The Group Buy function is designed for enterprises who purchase some of their incoming stock in bulk quantities. For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
+The Group Buy function is designed for enterprises who purchase some of their incoming stock in bulk quantities. For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
 
 When a product is allocated to group buy it will display differently in the shopfront \(see below\).
 
@@ -14,7 +13,7 @@ Customer are asked to indicate:
 
 Essentially this is a way for the customer to say ‘you have my permission to increase my order up to this point, if it means that as a group, we can achieve the bulk order quantity’.
 
-In [Bulk Order Management](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/view-orders/) you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
+In Bulk Order Management you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
 
 ## Applying group buy to a product
 
@@ -24,9 +23,9 @@ To designate the group buy feature to a product, go to Products in the horizonta
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png "Edit almonds for group buy")
 
-Then select**Yes**under**Group Buy **\(see below\).
+Then select **Yes **under **Group Buy **\(see below\).
 
-The **Group Buy Unit Size **is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
+The **Group Buy Unit Size **is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy-Unit-Size.png "Group Buy Unit Size")
 
@@ -51,13 +50,11 @@ In bulk order management you can view and edit customer orders for Bulk Buy prod
 
 What does Current Fulfilled Orders and Max Fulfilled Order tell me?
 
-**Current Fulfilled Orders**divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer order satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
+**Current Fulfilled Orders **divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer order satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
 
-**Max Fulfilled Order** takes the sum or all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If the number is over 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If it’s below zero, it means that even the MAX order quantities won’t reach the threshold.
+**Max Fulfilled Order** takes the sum or all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If the number is over 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If it’s below zero, it means that even the MAX order quantities won’t reach the threshold.
 
 ### Group Buy Report
 
-The “Bulk Co-op  – Totals By Suppliers Report” provides a summary of your bulk products including how many bulk sizes to order, how much remaining stock will be left over and how much extra stock customers are willing to purchase to help the group reach the bulk order size. For details of how to use this report, see the bottom of [this page.](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/reports/)
-
-
+The “Bulk Co-op  – Totals By Suppliers Report” provides a summary of your bulk products including how many bulk sizes to order, how much remaining stock will be left over and how much extra stock customers are willing to purchase to help the group reach the bulk order size. For details of how to use this report, see the bottom of [this page](/reports.md).
 
