@@ -33,7 +33,7 @@ You can create a new profile for a producer by clicking on **Enterprises **in th
 
 This will take you to the same form that we saw in the ‘Your Profile’ section of this guide. A few things to note:
 
-**Name:** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing OFN profile](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/create-or-connect-with-supplying-producers/#supplyingproducer)\).
+**Name:** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing OFN profile](/create-or-connect-with-your-supplying-producers.md)\).
 
 **Primary Producer:**Select this box, as you are adding a supplying producer.
 
@@ -49,9 +49,9 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 If a supplying producer already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
 
-Within the OFN,[Enterprise to Enterprise Permissions \(E2E\)](http://openfoodnetwork.org/platform/user-guide/advanced-features/enterprise-to-enterprise-permissions-e2es/)are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
+Within the OFN, [Enterprise to Enterprise Permissions \(E2E\)](/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
 
-[This page](http://openfoodnetwork.org/platform/user-guide/advanced-features/enterprise-to-enterprise-permissions-e2es/)covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found[here.](http://openfoodnetwork.org/platform/user-guide/advanced-features/enterprise-to-enterprise-permissions-e2es/#grantingandmanagingE2Es)
+[This page](/enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
 Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum.
 
