@@ -70,13 +70,13 @@ Simple users can use the recommended setting. Advanced users who need greater fl
 
 _\* not visible to profile-only users_
 
-The [Shipping](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/shipping-methods/) and [Payment Methods](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/payment-methods/) and [Enterprise Fees](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/enterprise-fees/) are covered in greater detail in later chapters in this user manual.
+The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods-2.md) and [Enterprise Fees](/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
 
 #### Tag Rules
 
 _\* not visible to profile-only users_
 
-You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/).
+You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](/customer-accounts-and-tagging.md).
 
 #### Shop Preferences
 
@@ -96,5 +96,5 @@ _\* not visible to profile-only users_
 
 **Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
 
-**Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](http://openfoodnetwork.org/platform/user-guide/advanced-features/opening-more-than-one-order-cycle/) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 
