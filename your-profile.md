@@ -64,7 +64,7 @@ _\* Note: The following fields are only visible to users who’ve opted to have 
 
 #### Inventory Settings
 
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](https://openfoodnetwork.org/user-guide/advanced-features/inventory/) page of this guide before changing the setting.
+Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the setting.
 
 #### Shipping Methods, Payment Methods and Enterprise Fees
 
