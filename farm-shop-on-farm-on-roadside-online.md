@@ -1,13 +1,10 @@
 # Farm Shop \(on-farm / on roadside / online\)
 
-  
-
-
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/08/Farm-Shop.jpg "Farm Shop")
 
 As the name suggests, this model involves the establishment of a retail store to enable direct-marketing to customers. This can be in the form of an on-farm shop, by a roadside, online or a mix of these.
 
-A direct marketing approach to selling is often a viable option for small-to-medium producers who benefit from direct relationships with their community and customers and who can enjoy better prices than those selling into the conventional wholesale market.   
+A direct marketing approach to selling is often a viable option for small-to-medium producers who benefit from direct relationships with their community and customers and who can enjoy better prices than those selling into the conventional wholesale market.
 
 Running a Farm Shop effectively cuts out the middleman and the costs associated with this, allowing for higher margins. There is, however, often a greater investment of time and resources to build a customer base. This model suits producers who have opted for high value production practices such as free range, organic, biodynamic, diversified crops etc.
 
@@ -35,17 +32,17 @@ This great article “[Emerging Classification Scheme for Local Food Business Mo
 
 Although developed for slightly different contexts, here are a couple of very basic marketing guides that might be useful for farmers thinking about building a loyal customer base.
 
-[Making Local Food Work: Influencing consumer buying behaviour ](https://www.diigo.com/item/pdf/5pes7/kr6d)
+[Making Local Food Work: Influencing consumer buying behaviour ](https://www.diigo.com/item/pdf/5pes7/kr6d)
 
 [The DIY Marketing Guide for Community Supported Agriculture](https://www.diigo.com/item/pdf/5pes7/r3jo)
 
-[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch)  \(From chapter 2 onwards\)
+[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch)  \(From chapter 2 onwards\)
 
 Browse our other marketing resources on the public library[here](https://www.diigo.com/user/openfoodnetwork/marketing)
 
 ## 
 
-##### _This model can be implemented on the Open Food Network. To learn about setting up an online shop and using the OFN’s administrative tools, check out our_[_user guide_](https://openfoodnetwork.org/user-guide/)_or_[_email us_](mailto:hello@openfoodnetwork.org)_._
+##### _This model can be implemented on the Open Food Network. To learn about setting up an online shop and using the OFN’s administrative tools, check out our _[_user guide_](/README.md) _or _[_email us_](mailto:hello@openfoodnetwork.org)_._
 
 
 
