@@ -10,13 +10,13 @@ Firstly you will be prompted to select the distributor that the order will be pl
 
 Now you can select which products to add to the order by searching for them and selecting a quantity. Once you’ve added all of the necessary products click **update and recalculate fees.**
 
-The next step is to add in the customer’s details. If it is a customer who is on your [customer list](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/), you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
+The next step is to add in the customer’s details. If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
 
 Click **Continue **to select a shipping method. Then click **Update**.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png "Shipping")](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png)Next you will be able to make any adjustments to the order, such as including a fee. Once you have done this click**Continue**.
+[![](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png "Shipping")](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png)Next you will be able to make any adjustments to the order, such as including a fee. Once you have done this click **Continue**.
 
 Finally you can select the customer’s payment method.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png "Payment method")](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png)Clicking**update**will finalise this order and send an email confirmation to the customer.
+[![](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png "Payment method")](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png)Clicking **update **will finalise this order and send an email confirmation to the customer.
 

@@ -14,7 +14,5 @@ Note: You can’t specify which shipping methods are available in an order cycle
 
 **Ordering your order cycles**
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your[enterprise settings](http://openfoodnetwork.org/platform/user-guide/hubs-set-up-guide/your-profile/), under ‘shop preferences’.
-
-
+You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your enterprise settings, under ‘shop preferences’.
 
