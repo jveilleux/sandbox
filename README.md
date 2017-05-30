@@ -1,44 +1,42 @@
-# [**User Guide**](https://openfoodnetwork.org/user-guide/)
+Guía del usuario 
 
-This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
+Este breve video le dará una breve introducción sobre cómo funciona la Red de Alimentos Abiertos, y lo que puede hacer para su negocio de alimentos. 
 
-### Set up guides for producers and hubs:
+Configurar guías para productores y centros: 
 
-Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
+¡Aprenda cómo conseguir su establecimiento de negocio en el OFN! 
 
-[HUBS SET-UP GUIDE](/hubs-set-up-guide.md)
+Estas guías de configuración le guiarán a través de los pasos necesarios para configurar un perfil o una tienda en línea en su plataforma OFN local. 
 
-[PRODUCERS SET-UP GUIDE](/producer-set-up-guide.md)
+GUÍA DE INSTALACIÓN DE LOS HUBS 
 
-### Advanced features:
+GUÍA DE INSTALACIÓN DE PRODUCTORES 
 
-Already set-up? Check out some of the OFN’s more advanced features and learn how to make your OFN account work for you.
+Características avanzadas: 
 
-[ADVANCED FEATURES](/advanced-features.md)
+¿Ya estás preparado? Echa un vistazo a algunas de las funciones más avanzadas de la OFN y aprende cómo hacer que tu cuenta OFN funcione para ti. 
 
-### Frequently Asked Questions \(FAQs\):
+CARACTERÍSTICAS AVANZADAS 
 
-Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs .
+Preguntas Frecuentes \(FAQs\): Examine estas preguntas frecuentes para encontrar respuestas a algunas preguntas frecuentes de clientes, productores y concentradores. 
 
-[CUSTOMER FAQS](/customer-faqs.md)
+Preguntas frecuentes del CLIENTE 
 
-[PRODUCER FAQS](/producer-faqs.md)
+PRODUCTO FAQS 
 
-[HUB FAQS](/hub-faqs.md)
+Preguntas frecuentes sobre el HUB 
 
-### Case studies:
+Estudios de caso: 
 
-Take a look at these case studies to hear about how different food enterprises are utilising the OFN as part of their operations.
+Eche un vistazo a estos estudios de caso para escuchar cómo las diferentes empresas de alimentos están utilizando la OFN como parte de sus operaciones. 
 
-[CASE STUDIES](/case-studies.md)
+ESTUDIOS DE CASO 
 
-### Model Specific Instructions:
+Instrucciones específicas del modelo: Estas páginas detallan el proceso de configuración de los diferentes modelos de empresas alimentarias comunitarias. 
 
-These pages detail the setup process for different community food enterprise models.
+MERCADO DE AGRICULTORES 
 
-[FARMERS’ MARKET](/farmers-markets.md)
+GRUPO DE COMPRA 
 
-[BUYING GROUP](/buying-group.md)
-
-[MULTI-FARM SHOP](/multi-farm-shop.md)
+TIENDA MULTI-FARM
 
